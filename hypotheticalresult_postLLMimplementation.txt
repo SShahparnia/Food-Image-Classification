@@ -1,0 +1,44 @@
+# EXAMPLE INPUT
+
+'Create a recipe with calorie counts given the following ingredients:\n'
+'The food in the image milk.jpeg is: Dairy product\n'
+'The food in the image eggs_benedict.jpg is: Egg\n'
+'The food in the image greens2.jpeg is: Vegetable-Fruit\n',
+
+# EXAMPLE OUTPUT
+
+Recipe: Vegetable-Fruit Omelet with Milk
+Servings: 1
+
+Ingredients:
+Eggs (2 large)
+Calories: 140
+Milk (1/4 cup)
+Calories: 30
+Vegetable-Fruit mix (1 cup, assorted greens and chopped veggies like spinach, kale, tomatoes, or bell peppers)
+Calories: 40
+Salt and pepper (to taste)
+Calories: 0
+Olive oil or butter (1 tsp, for cooking)
+Calories: 40
+Instructions:
+Prep the mixture:
+
+Crack the eggs into a bowl and whisk until smooth.
+Add milk, salt, and pepper. Mix well.
+Prepare the vegetables:
+
+Chop the greens and vegetables into bite-sized pieces if needed.
+Cook the omelet:
+
+Heat olive oil or butter in a non-stick skillet over medium heat.
+Add the vegetables and sauté for 2-3 minutes until slightly tender.
+Pour the egg-milk mixture over the vegetables.
+Finish cooking:
+
+Let the mixture cook until the edges set, then gently lift the edges and tilt the pan to allow the uncooked egg to flow underneath.
+When fully set, fold the omelet in half.
+Serve and enjoy:
+
+Slide the omelet onto a plate and serve warm.
+Total Calories: 250 calories

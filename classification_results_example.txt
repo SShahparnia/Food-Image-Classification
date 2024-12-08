@@ -1,0 +1,8 @@
+The food in the image rotisserie.png is: Meat
+The food in the image sweet-potato.png is: Fried food
+The food in the image macaroni.png is: Fried food
+The food in the image fries.jpg is: Fried food
+The food in the image eggs_benedict.jpg is: Egg
+The food in the image chocolate-piece.png is: Dairy product
+The food in the image chicken-alfredo.png is: Noodles-Pasta
+The food in the image caramel-custard.png is: Dessert
