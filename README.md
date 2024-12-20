@@ -1,4 +1,3 @@
-```markdown
 # Food Image Classification
 
 This repository contains a food image classification project using deep learning models, specifically ResNet50. The project aims to classify various food items from images using pre-trained convolutional neural networks (CNNs) with transfer learning and custom preprocessing.
