@@ -1,6 +1,6 @@
 # Food Image Classification
 
-This repository contains a food image classification project using deep learning models, specifically ResNet50. The project aims to classify various food items from images using pre-trained convolutional neural networks (CNNs) with transfer learning and custom preprocessing.
+This repository contains a food image classification project using deep learning models, specifically ResNet50, implemented with PyTorch and CUDA for GPU acceleration. The project aims to classify various food items from images using pre-trained convolutional neural networks (CNNs) with transfer learning and custom preprocessing.
 
 ## Project Overview
 The goal of this project is to build a robust image classification system that can accurately identify food items from image data. The models were trained on a dataset of food images, leveraging powerful CNN architectures and preprocessing techniques.
@@ -47,9 +47,9 @@ The goal of this project is to build a robust image classification system that c
    python evaluate.py
    ```
 
-3. **Run Inference:**
+3. **Run Test:**
    ```bash
-   python inference.py --image_path path_to_image.jpg
+   python Test.py path_to_image.jpg
    ```
 
 ---
@@ -73,6 +73,7 @@ Food-Image-Classification/
 
 - **ResNet50:**
   - Deep CNN model known for high accuracy and efficiency.
+  - Implemented using PyTorch with CUDA support for GPU acceleration.
   - Suitable for large-scale image classification tasks.
 
 ---
@@ -95,7 +96,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 ## Acknowledgments
-- TensorFlow and Keras for the deep learning framework.
+- PyTorch and CUDA for the deep learning framework.
 - Open-source food image datasets.
 
 ---
